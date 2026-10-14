@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#0A893D"             # Verde para as barras de nível
+backgroundColor = "#1A2C4C"          # Azul escuro do fundo geral
+secondaryBackgroundColor = "#1A2C4C" # Garante o azul em todos os recipientes
+textColor = "#FFFFFF"                # Todos os textos em branco
+font = "sans serif"
